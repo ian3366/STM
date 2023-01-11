@@ -1,0 +1,85 @@
+2022-12-19 15:34:26,568 [INFO] Activator:179 - 
+
+
+2022-12-19 15:34:26,569 [INFO] Activator:180 - !SESSION log4j initialized
+2022-12-19 15:34:28,264 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-19 15:34:53,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-12-19 15:34:53,201 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-12-19 15:34:53,202 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-12-19 16:02:59,482 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-27 13:13:12,420 [INFO] Activator:179 - 
+
+
+2022-12-27 13:13:12,422 [INFO] Activator:180 - !SESSION log4j initialized
+2022-12-27 13:13:17,121 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-27 13:13:41,981 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-12-27 13:13:41,981 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-12-27 13:13:41,982 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-12-27 14:51:23,050 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_External_tool_project_builders_migration_2 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2022-12-27 14:51:23,054 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_Prompt_before_migrating_3 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2022-12-27 14:51:23,054 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_1 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2022-12-27 15:08:36,826 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 160
+2022-12-27 15:08:36,828 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.util.Vector.elementData(Vector.java:762)
+2022-12-27 15:08:36,828 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.util.Vector.elementAt(Vector.java:500)
+2022-12-27 15:08:36,828 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.table.DefaultTableColumnModel.getColumn(DefaultTableColumnModel.java:295)
+2022-12-27 15:08:36,828 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.TableColumnManager$2.mouseClicked(TableColumnManager.java:194)
+2022-12-27 15:08:36,829 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:278)
+2022-12-27 15:08:36,829 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+2022-12-27 15:08:36,829 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6638)
+2022-12-27 15:08:36,829 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+2022-12-27 15:08:36,831 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+2022-12-27 15:08:36,832 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+2022-12-27 15:08:36,834 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+2022-12-27 15:08:36,834 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+2022-12-27 15:08:36,834 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2022-12-27 15:08:36,835 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+2022-12-27 15:08:36,835 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4556)
+2022-12-27 15:08:36,836 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+2022-12-27 15:08:36,836 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+2022-12-27 15:08:36,837 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2022-12-27 15:08:36,837 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+2022-12-27 15:08:36,837 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2022-12-27 15:08:36,838 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2022-12-27 15:08:36,838 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2022-12-27 15:08:36,838 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2022-12-27 15:08:36,839 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+2022-12-27 15:08:36,839 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2022-12-27 15:08:36,839 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+2022-12-27 15:08:36,840 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2022-12-27 15:08:36,840 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2022-12-27 15:08:36,840 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+2022-12-27 15:08:36,841 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2022-12-27 15:08:36,841 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2022-12-27 15:08:36,842 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2022-12-27 15:08:36,843 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2022-12-27 15:08:36,844 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2022-12-27 15:08:36,844 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-12-27 15:52:43,062 [ERROR] ConfigurationRetriever:140 - IOException on connection: Read timed out
+2022-12-28 13:13:06,821 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-28 20:21:16,221 [INFO] Activator:179 - 
+
+
+2022-12-28 20:21:16,223 [INFO] Activator:180 - !SESSION log4j initialized
+2022-12-28 20:21:23,870 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-28 20:21:51,114 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-12-28 20:21:51,115 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-12-28 20:21:51,116 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-12-28 21:47:07,880 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-30 19:12:33,449 [INFO] Activator:179 - 
+
+
+2022-12-30 19:12:33,451 [INFO] Activator:180 - !SESSION log4j initialized
+2022-12-30 19:12:40,181 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-12-30 19:13:07,105 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-12-30 19:13:07,106 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-12-30 19:13:07,106 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-01-03 13:01:57,333 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-03 14:47:44,415 [INFO] Activator:179 - 
+
+
+2023-01-03 14:47:44,418 [INFO] Activator:180 - !SESSION log4j initialized
+2023-01-03 14:47:51,754 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-03 14:48:17,354 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-01-03 14:48:17,355 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-01-03 14:48:17,355 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-01-06 16:45:30,412 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 

@@ -1,0 +1,10 @@
+16:37:49 **** Incremental Build of configuration Debug for project SleepMode_OnExit ****
+make -j3 all 
+arm-none-eabi-size   SleepMode_OnExit.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12640	    144	   1728	  14512	   38b0	SleepMode_OnExit.elf
+Finished building: default.size.stdout
+ 
+
+16:37:50 Build Finished. 0 errors, 0 warnings. (took 480ms)
+
